@@ -13,4 +13,25 @@ about:
 
 ---
 
+:::{#hero-heading}
+
 Hi, I'm Nick Mesmer! I spend most of my time building AI-powered tools and exploring how maching learning can solve real-world problems. This blog is my corner of the internet to explore ideas, follow my curiosities, and share what I'm learning. 
+
+## Experience
+
+Bristol Myers Squibb | Enabling Functions AI/Data | December 2021 - present
+
+Fermilab | Graduate Researcher | Sept 2019 - May 2021
+
+## Education
+
+Lewis University, Romeoville, IL
+M.S. in Physics | Sept 2019 - May 2021
+
+Taylor University | Upland, IN
+B.S. in Physics | Sept 2015 - May 2019
+
+
+:::
+
+

@@ -1,0 +1,36 @@
+1. Use your email service features to generate the HTML for your subscription widget. 
+
+<span style="font-weight: 600;">Subscribe</span>
+
+<!-- Begin ButtonDown Signup Form -->
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/NickMesmer"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.com/NickMesmer', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  
+  <input type="submit" value="Subscribe" />
+  <p>
+    <a href="https://buttondown.com/refer/NickMesmer" target="_blank">Powered by Buttondown.</a>
+  </p>
+</form>
+
+<!--End mc_embed_signup-->
+
+Note: Be sure to remove the "Powered by Buttondown" text.
+
+2. Create the file subscribe.html in the root of your project.
+
+3. Paste the HTML for your subscription widget into subscribe.html and save the file.
+
+4. Add subscribe.html to the margin-header in your _quarto.yml file:
+
+website:
+  # (additional metadata excluded for brevity)
+  margin-header: subscribe.html
+
+

@@ -1,0 +1,30 @@
+---
+title: "AI July - 00"
+author: "Nick Mesmer"
+date: "2025-07-01"
+categories: [ai_july]
+---
+
+
+I’ve been building LLM-based apps for a while now, but recently I’ve been wanting to dig deeper - past the APIs and into the nuts and bolts of how these models actually work. So I’m carving out a month (AI July) to dive headfirst into deep learning. Here’s the plan:
+
+## Week 1:
+* Read chapters 1-5 of [Dive into Deep Learning](https://d2l.ai)
+* Train NN from scratch on MNIST w/ PyTorch
+* Supplemental lectures from [Introduction to Deep Learning](https://introtodeeplearning.com)
+
+## Week 2:
+* Find a recent, interesting paper
+* Reproduce the results
+
+## Week 3:
+* Explore an active research area
+* Complete a mini-study on the topic
+
+## Week 4:
+* Compile results and share findings
+
+A bit ambitious, but I'm excited to get started! I'll be posting updates [here](https://nickjm21.github.io) as I go at least weekly.
+
+
+

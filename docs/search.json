@@ -4,41 +4,62 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hi, I’m Nick Mesmer! I spend most of my time building AI-powered tools and exploring how maching learning can solve real-world problems. This blog is my corner of the internet to explore ideas, follow my curiosities, and share what I’m learning."
+    "text": "Hi, I’m Nick Mesmer! I spend most of my time building AI-powered tools and exploring how maching learning can solve real-world problems. This blog is my corner of the internet to explore ideas, follow my curiosities, and share what I’m learning.\n\n\nBristol Myers Squibb | Enabling Functions AI/Data | December 2021 - present\nFermilab | Graduate Researcher | Sept 2019 - May 2021\n\n\n\nLewis University, Romeoville, IL M.S. in Physics | Sept 2019 - May 2021\nTaylor University | Upland, IN B.S. in Physics | Sept 2015 - May 2019"
   },
   {
-    "objectID": "posts/new_post/hello.html",
-    "href": "posts/new_post/hello.html",
-    "title": "Quarto Basics",
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
     "section": "",
-    "text": "For a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
+    "text": "Bristol Myers Squibb | Enabling Functions AI/Data | December 2021 - present\nFermilab | Graduate Researcher | Sept 2019 - May 2021"
   },
   {
-    "objectID": "posts/new_post/hello.html#polar-axis",
-    "href": "posts/new_post/hello.html#polar-axis",
-    "title": "Quarto Basics",
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
     "section": "",
-    "text": "For a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
+    "text": "Lewis University, Romeoville, IL M.S. in Physics | Sept 2019 - May 2021\nTaylor University | Upland, IN B.S. in Physics | Sept 2015 - May 2019"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/ai-july-00/index.html",
+    "href": "posts/ai-july-00/index.html",
+    "title": "AI July - 00",
     "section": "",
-    "text": "This is a post with executable code.\n\nprint(\"Hello, World!\")\n\nHello, World!"
+    "text": "I’ve been building LLM-based apps for a while now, but recently I’ve been wanting to dig deeper - past the APIs and into the nuts and bolts of how these models actually work. So I’m carving out a month (AI July) to dive headfirst into deep learning. Here’s the plan:"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "objectID": "posts/ai-july-00/index.html#week-1",
+    "href": "posts/ai-july-00/index.html#week-1",
+    "title": "AI July - 00",
+    "section": "Week 1:",
+    "text": "Week 1:\n\nRead chapters 1-5 of Dive into Deep Learning\nTrain NN from scratch on MNIST w/ PyTorch\nSupplemental lectures from Introduction to Deep Learning"
+  },
+  {
+    "objectID": "posts/ai-july-00/index.html#week-2",
+    "href": "posts/ai-july-00/index.html#week-2",
+    "title": "AI July - 00",
+    "section": "Week 2:",
+    "text": "Week 2:\n\nFind a recent, interesting paper\nReproduce the results"
+  },
+  {
+    "objectID": "posts/ai-july-00/index.html#week-3",
+    "href": "posts/ai-july-00/index.html#week-3",
+    "title": "AI July - 00",
+    "section": "Week 3:",
+    "text": "Week 3:\n\nExplore an active research area\nComplete a mini-study on the topic"
+  },
+  {
+    "objectID": "posts/ai-july-00/index.html#week-4",
+    "href": "posts/ai-july-00/index.html#week-4",
+    "title": "AI July - 00",
+    "section": "Week 4:",
+    "text": "Week 4:\n\nCompile results and share findings\n\nA bit ambitious, but I’m excited to get started! I’ll be posting updates here as I go at least weekly."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "blog",
     "section": "",
-    "text": "Quarto Basics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 30, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 27, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "AI July - 00\n\n\n\nai_july\n\n\n\n\n\n\n\n\n\nJul 1, 2025\n\n\nNick Mesmer\n\n\n\n\n\nNo matching items"
   }
 ]
