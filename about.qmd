@@ -1,19 +1,16 @@
 ---
 title: "About"
-image: profile.jpg
+image: profile_pic_2024.jpg
 about:
-  template: jolla
+  template: trestles
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: www.linkedin.com/in/nicholas-mesmer
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/Nickjm21
 
 ---
 
-About this blog
+Hi, I'm Nick Mesmer! I spend most of my time building AI-powered tools and exploring how maching learning can solve real-world problems. This blog is my corner of the internet to explore ideas, follow my curiosities, and share what I'm learning. 
