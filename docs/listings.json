@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/wine_quality_prediction/index.html",
       "/posts/ai-july-00/index.html"
     ]
   }
